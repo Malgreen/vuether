@@ -5,7 +5,7 @@ A very, very simple weather SPA using Vue and [OpenWeatherMap](https://openweath
 ```
 npm install
 ```
-
+And then you also need an API key from OpenWeatherMap
 ### Compiles and hot-reloads for development
 ```
 npm run serve
